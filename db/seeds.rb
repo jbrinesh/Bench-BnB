@@ -1,0 +1,5 @@
+bench_1 = Bench.create(description: "801-899 Steiner St, Alamo Square Playground", lat: 37.776655, lng: 122.433890 )
+bench_2 = Bench.create(description: "2500 Turk St", lat: 37.779004, lng: -122.451032)
+bench_3 = Bench.create(description: "50 Hagiwara Tea Garden Dr", lat: 37.770486, lng: -122.467791)
+bench_4 = Bench.create(description: "1700 Bacon St", lat: 37.721578, lng:  -122.422541)
+bench_5 = Bench.create(description: "Gregs Honda Fit, 2250-2298 Harrison St", lat: 37.761124, lng: -122.412819)

@@ -1,0 +1,2 @@
+module ApiBenchHelper
+end
